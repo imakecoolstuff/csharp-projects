@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\quizScores\quizScores\bin\Debug\quizScores.exe.config
+C:\Users\carol\source\repos\quizScores\quizScores\bin\Debug\quizScores.exe
+C:\Users\carol\source\repos\quizScores\quizScores\bin\Debug\quizScores.pdb
+C:\Users\carol\source\repos\quizScores\quizScores\obj\Debug\quizScores.csprojResolveAssemblyReference.cache
+C:\Users\carol\source\repos\quizScores\quizScores\obj\Debug\quizScores.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\quizScores\quizScores\obj\Debug\quizScores.exe
+C:\Users\carol\source\repos\quizScores\quizScores\obj\Debug\quizScores.pdb

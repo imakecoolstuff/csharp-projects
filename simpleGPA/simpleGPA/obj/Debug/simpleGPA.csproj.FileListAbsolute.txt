@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\simpleGPA\simpleGPA\obj\Debug\simpleGPA.csprojResolveAssemblyReference.cache
+C:\Users\carol\source\repos\simpleGPA\simpleGPA\obj\Debug\simpleGPA.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\simpleGPA\simpleGPA\bin\Debug\simpleGPA.exe.config
+C:\Users\carol\source\repos\simpleGPA\simpleGPA\bin\Debug\simpleGPA.exe
+C:\Users\carol\source\repos\simpleGPA\simpleGPA\bin\Debug\simpleGPA.pdb
+C:\Users\carol\source\repos\simpleGPA\simpleGPA\obj\Debug\simpleGPA.exe
+C:\Users\carol\source\repos\simpleGPA\simpleGPA\obj\Debug\simpleGPA.pdb

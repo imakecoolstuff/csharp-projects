@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+C:\Users\carol\source\repos\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+C:\Users\carol\source\repos\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+C:\Users\carol\source\repos\CircleApp\CircleApp\obj\Debug\CircleApp.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+C:\Users\carol\source\repos\CircleApp\CircleApp\obj\Debug\CircleApp.pdb
+C:\Users\carol\source\repos\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache

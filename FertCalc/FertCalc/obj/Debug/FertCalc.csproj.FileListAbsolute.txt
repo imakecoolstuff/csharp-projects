@@ -1,0 +1,7 @@
+C:\Users\carol\source\repos\FertCalc\FertCalc\obj\Debug\FertCalc.csprojResolveAssemblyReference.cache
+C:\Users\carol\source\repos\FertCalc\FertCalc\obj\Debug\FertCalc.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\FertCalc\FertCalc\bin\Debug\FertCalc.exe.config
+C:\Users\carol\source\repos\FertCalc\FertCalc\bin\Debug\FertCalc.exe
+C:\Users\carol\source\repos\FertCalc\FertCalc\bin\Debug\FertCalc.pdb
+C:\Users\carol\source\repos\FertCalc\FertCalc\obj\Debug\FertCalc.exe
+C:\Users\carol\source\repos\FertCalc\FertCalc\obj\Debug\FertCalc.pdb

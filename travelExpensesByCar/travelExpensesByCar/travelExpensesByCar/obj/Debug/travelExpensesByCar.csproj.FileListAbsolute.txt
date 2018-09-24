@@ -1,0 +1,10 @@
+C:\Users\carol\source\repos\travelExpensesByCar\travelExpensesByCar\bin\Debug\travelExpensesByCar.exe.config
+C:\Users\carol\source\repos\travelExpensesByCar\travelExpensesByCar\bin\Debug\travelExpensesByCar.exe
+C:\Users\carol\source\repos\travelExpensesByCar\travelExpensesByCar\bin\Debug\travelExpensesByCar.pdb
+C:\Users\carol\source\repos\travelExpensesByCar\travelExpensesByCar\obj\Debug\travelExpensesByCar.csprojResolveAssemblyReference.cache
+C:\Users\carol\source\repos\travelExpensesByCar\travelExpensesByCar\obj\Debug\travelExpensesByCar.Form1.resources
+C:\Users\carol\source\repos\travelExpensesByCar\travelExpensesByCar\obj\Debug\travelExpensesByCar.Properties.Resources.resources
+C:\Users\carol\source\repos\travelExpensesByCar\travelExpensesByCar\obj\Debug\travelExpensesByCar.csproj.GenerateResource.Cache
+C:\Users\carol\source\repos\travelExpensesByCar\travelExpensesByCar\obj\Debug\travelExpensesByCar.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\travelExpensesByCar\travelExpensesByCar\obj\Debug\travelExpensesByCar.exe
+C:\Users\carol\source\repos\travelExpensesByCar\travelExpensesByCar\obj\Debug\travelExpensesByCar.pdb
